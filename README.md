@@ -7,7 +7,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [**building a website for an import-export company, helping them manage their operations and connect with clients more easily.**](https://github.com/Obsidian-NextGen/BuyfromEt_Vanila)
+- 🔭 I’m currently working on [**building a website for an import-export company, helping them manage their operations and connect with clients more easily.**](https://buyfromethiopia.netlify.app/)
 
 - 🌱 I’m currently learning **Next.js to build faster websites and improving my skills in frontend development and user interface design.**
 
