@@ -88,7 +88,5 @@
 </p>
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yilikaltesfaye&" alt="yilikaltesfaye" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=yilikaltesfaye&show_icons=true&locale=en" alt="yilikaltesfaye" />
 </p>
 
