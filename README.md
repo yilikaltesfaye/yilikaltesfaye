@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yilikal T. Kebede</h1>
 <h3 align="center">A Frontend Web Developer</h3>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=yilikaltesfaye&theme=darkhub" alt="yilikaltesfaye" />
-  </a>
-</p>
+
 
 - 🔭 I’m currently working on [**building a website for an import-export company, helping them manage their operations and connect with clients more easily.**](https://buyfromethiopia.netlify.app/)
 
 - 🌱 I’m currently learning **Next.js to build faster websites and improving my skills in frontend development and user interface design.**
 
 - 👨‍💻 All of my projects are available at <a href="https://yilikaltesfaye.github.io" target="_blank">**My Portfolio**</a>
-
-- 📝 I regularly write articles on <a href="https://yilikaltesfaye.github.io/blog" target="_blank">**My Blog**</a>
 
 - 💬 Ask me about **Frontend development, user interface design, or advice on getting started with coding. I'm always happy to share insights into web development and help with building your first web project.**
 
@@ -86,7 +80,5 @@
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yilikaltesfaye&show_icons=true&locale=en&layout=compact"alt="yilikaltesfaye" /> 
 </p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yilikaltesfaye&" alt="yilikaltesfaye" />
-</p>
+
 
