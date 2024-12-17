@@ -67,15 +67,17 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> 
   &nbsp;&nbsp;
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a> 
+  &nbsp;&nbsp;
+  <a href="https://www.tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> 
   <br>
   <br>
 
   <!-- Advanced -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> 
+ <!-- <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> 
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> 
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"><img src="https://www.abcsoftwarecompany.com/_next/image?url=https%3A%2F%2Fd2ef4hkqu4id.cloudfront.net%2Fcypress_logo_social_2904db380b.png&w=3840&q=75" alt="cypress" width="70" height="40"/></a> 
+  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"><img src="https://www.abcsoftwarecompany.com/_next/image?url=https%3A%2F%2Fd2ef4hkqu4id.cloudfront.net%2Fcypress_logo_social_2904db380b.png&w=3840&q=75" alt="cypress" width="70" height="40"/></a> -->
 </p>
 <br>
 <p>
