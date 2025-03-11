@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yilikal T. Kebede</h1>
 <h3 align="center">A Frontend Web Developer</h3>
 
-<!-- Updateing the readme document to check gpg 2.0 -->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yilikalt" alt="yilikalt" /></a> </p>
 
 <!-- - 🔭 I’m currently working on [**building a website for an import-export company, helping them manage their operations and connect with clients more easily.**](https://buyfromethiopia.netlify.app/) -->
 
@@ -81,7 +81,8 @@
 </p>
 <br>
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yilikalt&show_icons=true&locale=en&layout=compact"alt="yilikaltesfaye" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=yilikalt&show_icons=true&locale=en" alt="yilikalt" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yilikalt&show_icons=true&locale=en&layout=compact"alt="yilikalt" /> 
 </p>
 
 
