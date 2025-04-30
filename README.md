@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js to build faster websites and improving my skills in frontend development and user interface design.**
 
-- 👨‍💻 All of my projects are available at <a href="https://yilikaltesfaye.github.io" target="_blank">**My Portfolio**</a>
+- 👨‍💻 All of my projects are available at <a href="https://yilikaltesfaye.vercel.app" target="_blank">**My Portfolio**</a>
 
 - 💬 Ask me about **Frontend development, user interface design, or advice on getting started with coding. I'm always happy to share insights into web development and help with building your first web project.**
 
