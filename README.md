@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Yilikal T. Kebede</h1>
+<!-- <h1 align="center">Hi 👋, I'm Yilikal T. Kebede</h1>
 <h3 align="center">A Frontend Web Developer</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yilikaltesfaye" alt="yilikaltesfaye" /></a> </p>
 
-<!-- - 🔭 I’m currently working on [**building a website for an import-export company, helping them manage their operations and connect with clients more easily.**](https://buyfromethiopia.netlify.app/) -->
+<!-- - 🔭 I’m currently working on [**building a website for an import-export company, helping them manage their operations and connect with clients more easily.**](https://buyfromethiopia.netlify.app/)
 
 - 🌱 I’m currently learning **Next.js to build faster websites and improving my skills in frontend development and user interface design.**
 
@@ -32,7 +32,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <!-- Beginner-Friendly -->
+  <!-- Beginner-Friendly 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
@@ -46,7 +46,7 @@
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 
-  <!-- Intermediate -->
+  <!-- Intermediate
   <br>
   <br>
 <!--   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/></a> 
@@ -54,7 +54,7 @@
 <!--   <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img width="40" height="40" src="https://img.icons8.com/office/40/000000/express-js.png" alt="express-js" /></a>
   &nbsp;&nbsp; -->
 <!--   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a> 
-  &nbsp;&nbsp; -->
+  &nbsp;&nbsp; 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
   &nbsp;&nbsp;
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=AU6Wc7r56Fxz&format=png&color=000000" alt="nextjs" width="40" height="40"/></a> 
@@ -63,7 +63,7 @@
   &nbsp;&nbsp; -->
 <!--   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
   &nbsp;&nbsp;
-  -->
+  
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> 
   &nbsp;&nbsp;
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a> 
@@ -77,7 +77,7 @@
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> 
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"><img src="https://www.abcsoftwarecompany.com/_next/image?url=https%3A%2F%2Fd2ef4hkqu4id.cloudfront.net%2Fcypress_logo_social_2904db380b.png&w=3840&q=75" alt="cypress" width="70" height="40"/></a> -->
+  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"><img src="https://www.abcsoftwarecompany.com/_next/image?url=https%3A%2F%2Fd2ef4hkqu4id.cloudfront.net%2Fcypress_logo_social_2904db380b.png&w=3840&q=75" alt="cypress" width="70" height="40"/></a>
 </p>
 <br>
 <p>
@@ -85,4 +85,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yilikaltesfaye&show_icons=true&locale=en&layout=compact"alt="yilikaltesfaye" /> 
 </p>
 
-
+ -->
