@@ -1,6 +1,6 @@
 # Hi 👋, I'm Yilikal Tesfaye
 
-### Full-stack dev (React/Node) leaning backend | NestJS, PostgreSQL | Shipping auth & RBAC systems
+### Full-stack developer (React/Node) backend Heavy | NestJS, Express, PostgreSQL | Building auth & RBAC systems
 
 - 🔭 I'm currently working on **Fixing and improving BIRS, a platform for reporting broken infrastructure (React + Node/Express + Postgres/Prisma + Redis)**
 
@@ -16,16 +16,16 @@
 
 - 👨‍💻 All of my projects are available at **[https://yilikaltesfaye.vercel.app](https://yilikaltesfaye.vercel.app)**
 
-- 📝 I regularly write articles on **[https://www.somewherefaraway.com](https://www.somewherefaraway.com)**
+<!-- - 📝 I regularly write articles on **[https://www.somewherefaraway.com](https://www.somewherefaraway.com)**
 
-- 📄 Know about my experiences **[https://yilikaltesfaye.vercel.app/resume](https://yilikaltesfaye.vercel.app/resume)**
-
+ - 📄 Know about my experiences **[https://yilikaltesfaye.vercel.app/resume](https://yilikaltesfaye.vercel.app/resume)**
+-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/yilikaltesfaye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="yilikaltesfaye" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yilikaltesfaye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yilikaltesfaye" height="30" width="40" /></a>
-<a href="https://medium.com/@yilikaltesfaye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yilikaltesfaye" height="30" width="40" /></a>
-<a href="https://leetcode.com/yilikaltesfaye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yilikaltesfaye" height="30" width="40" /></a>
+<!-- <a href="https://medium.com/@yilikaltesfaye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yilikaltesfaye" height="30" width="40" /></a>
+<a href="https://leetcode.com/yilikaltesfaye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yilikaltesfaye" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
