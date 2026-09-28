@@ -1,7 +1,6 @@
 # Hi 👋, I'm Yilikal Tesfaye
 
-### Full-stack developer (React/Node) backend Heavy | NestJS, Express, PostgreSQL | Building auth & RBAC systems
-
+### a backend Heavy - Full-stack developer (React/Node) 
 - 🔭 I'm currently working on **Fixing and improving BIRS, a platform for reporting broken infrastructure (React + Node/Express + Postgres/Prisma + Redis)**
 
 - 🌱 I'm currently learning **NestJS internals, microservices security, and AWS basics (VPC/networking)**
